@@ -1,6 +1,6 @@
 #
 # This file was generated based on the configuration script:
-#     /home/pbyers/workspace_v10/tirtos_builds_MSP_EXP432E401Y_release_gcc/release.cfg
+#     /home/pbyers/git/msp432e4_baseFramework/tirtos_builds_MSP_EXP432E401Y_release_gcc/release.cfg
 #
 # This makefile may be included in other makefiles that need to build
 # the libraries containing the compiled source files generated as
@@ -14,7 +14,7 @@
 #
 # The absolute path to the generated source directory (at the time the
 # sources were generated) is:
-#    /home/pbyers/workspace_v10/tirtos_builds_MSP_EXP432E401Y_release_gcc/src
+#    /home/pbyers/git/msp432e4_baseFramework/tirtos_builds_MSP_EXP432E401Y_release_gcc/src
 #
 GEN_SRC_DIR ?= ../src
 

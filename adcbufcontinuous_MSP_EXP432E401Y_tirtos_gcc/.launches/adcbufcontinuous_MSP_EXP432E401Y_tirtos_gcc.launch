@@ -4,7 +4,7 @@
 <stringAttribute key="com.ti.ccstudio.debug.debugModel.ATTR_PROGRAM.MSP432E401Y.ccxml.Texas Instruments XDS110 USB Debug Probe/CORTEX_M4_0" value="${build_artifact:adcbufcontinuous_MSP_EXP432E401Y_tirtos_gcc}"/>
 <stringAttribute key="com.ti.ccstudio.debug.debugModel.ATTR_PROJECT.MSP432E401Y.ccxml.Texas Instruments XDS110 USB Debug Probe/CORTEX_M4_0" value="adcbufcontinuous_MSP_EXP432E401Y_tirtos_gcc"/>
 <stringAttribute key="com.ti.ccstudio.debug.debugModel.ATTR_TARGET_CONFIG" value="${target_config_active_default:adcbufcontinuous_MSP_EXP432E401Y_tirtos_gcc}"/>
-<stringAttribute key="com.ti.ccstudio.debug.debugModel.MRU_PROGRAM.MSP432E401Y.ccxml.Texas Instruments XDS110 USB Debug Probe/CORTEX_M4_0" value="/home/pbyers/workspace_v10/adcbufcontinuous_MSP_EXP432E401Y_tirtos_gcc/Debug/adcbufcontinuous_MSP_EXP432E401Y_tirtos_gcc.out"/>
+<stringAttribute key="com.ti.ccstudio.debug.debugModel.MRU_PROGRAM.MSP432E401Y.ccxml.Texas Instruments XDS110 USB Debug Probe/CORTEX_M4_0" value="/home/pbyers/git/msp432e4_baseFramework/adcbufcontinuous_MSP_EXP432E401Y_tirtos_gcc/Debug/adcbufcontinuous_MSP_EXP432E401Y_tirtos_gcc.out"/>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
 <listEntry value="/adcbufcontinuous_MSP_EXP432E401Y_tirtos_gcc"/>
 </listAttribute>
