@@ -1,0 +1,8 @@
+runtime_xdc_noinit.o: \
+ /opt/ti/xdctools_3_62_00_08_core/packages/xdc/runtime/xdc_noinit.c \
+ /opt/ti/simplelink_msp432e4_sdk_4_20_00_12/kernel/tirtos/packages/gnu/targets/arm//libs/install-native/arm-none-eabi/include/stdint.h \
+ /opt/ti/simplelink_msp432e4_sdk_4_20_00_12/kernel/tirtos/packages/gnu/targets/arm//libs/install-native/arm-none-eabi/include/machine/_default_types.h \
+ /opt/ti/simplelink_msp432e4_sdk_4_20_00_12/kernel/tirtos/packages/gnu/targets/arm//libs/install-native/arm-none-eabi/include/sys/features.h \
+ /opt/ti/simplelink_msp432e4_sdk_4_20_00_12/kernel/tirtos/packages/gnu/targets/arm//libs/install-native/arm-none-eabi/include/_newlib_version.h \
+ /opt/ti/simplelink_msp432e4_sdk_4_20_00_12/kernel/tirtos/packages/gnu/targets/arm//libs/install-native/arm-none-eabi/include/sys/_intsup.h \
+ /opt/ti/simplelink_msp432e4_sdk_4_20_00_12/kernel/tirtos/packages/gnu/targets/arm//libs/install-native/arm-none-eabi/include/sys/_stdint.h
