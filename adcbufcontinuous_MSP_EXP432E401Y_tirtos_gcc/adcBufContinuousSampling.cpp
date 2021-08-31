@@ -86,7 +86,7 @@ void *mainThread(void *arg0)
     /* Add channels to ADC Buffer */
     adcBuffer0.AddChannel("Channel 0", 0, ADCBufMSP432E4_Seq_0, 3300000);
     adcBuffer0.AddChannel("Channel 5", 5, ADCBufMSP432E4_Seq_0, 3300000);
-    adcBuffer0.AddChannel("Channel 16", 16, ADCBufMSP432E4_Seq_0, 3300000);
+    adcBuffer0.AddChannel("Channel 8", 8, ADCBufMSP432E4_Seq_0, 3300000);
 
 //    adcBuffer1.AddChannel("Channel 2", 2, ADCBufMSP432E4_Seq_1, 3300000);
 
