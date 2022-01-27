@@ -72,7 +72,7 @@ void *mainThread(void *arg0)
     Display_Params_init(&displayParams);
     displayParams.lineClearMode = DISPLAY_CLEAR_BOTH;
     displayHandle = Display_open(Display_Type_UART, &displayParams);
-    if (displayHandle == NULL) {
+    if (displayHandle == NULL) { // @suppress("Symbol is not resolved")
         Display_printf(displayHandle, 0, 0, "Error creating displayHandle\n");
         while (1);
     }
